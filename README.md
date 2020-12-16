@@ -20,13 +20,42 @@ utilizando elementos de entrada y salida de datos.
 
 Desarrollar un diagrama de flujo de un algoritmo utilizando las funciones de lectura/escritura de variables, impresión y estructuras de control.
 
+-[Número par e impar.]()
+
+-[Programa de la edad]()
+
+-[La ecuación cuadrática]()
+
+-[Decirte si eres mayor de edad]()
+
 #LABORATORIO 3:Estructuras repetitivas
 
 Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y “do while”.
 
+-[Pasar un numero a binario]()
+
+-[Serie Fibonacci]()
+
+-[Aproximar el número áureo = 1.61803]()
+
+
 #LABORATORIO 4:Funciones, arreglos y matrices
 
 En ingeniería es conveniente resolver un problema dividiéndolo por partes. Hemos visto sin duda en algunas de las secciones la frase: “divide y vencerás”. En C/C++ existen diversas funciones dadas por bibliotecas que nos permiten resolver cierta clase de problemas. Por ejemplo, al llamar la biblioteca <math.h> podemos emplear funciones de cálculos aritméticos como la raíz cuadrada (sqrt), la potencia de un número (pow), entre otras.
+
+[El usuario va a ingresar 2 arreglos vectores elemento a elemento.]()
+
+[Se generarán 2 vectores con elementos enteros y se llenarán de forma aleatoria]()
+
+[Generar una función que realice la suma de los dos arreglos vectoriales e imprima el resultado a la salida.]()
+
+[Generar una función que realice la suma de todos los elementos de un arreglo e imprima el resultado a la salida.]()
+
+[Tomar la función de llenado del arreglo vectorial por el usuario y extenderlo a dos dimensiones.]()
+
+[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.]()
+
+[Tomar la función de suma de arreglos vectoriales y extender la operación a dos dimensiones.]()
 
 #LABORATORIO 5:Métodos cerrados: de la bisección y de la falsa posición
 
@@ -63,27 +92,6 @@ Comparar los datos calculados en el taller con los obtenidos a la salida del pro
 Se deberán comprobar las 5 iteraciones y se deberán calcular los errores relativos
 porcentuales.
 
+-[Gayss Seidel]()
 
-6.-[Gayss Seidel]()
-
-
-
-8.-[Interpolacion de Newton]()
-
-12.-[Número par e impar.]()
-13.-[Programa de la edad]()
-14.-[La ecuación cuadrática]()
-15.-[Decirte si eres mayor de edad]()
-16.-[Pasar un numero a binario]()
-17.-[El usuario va a ingresar 2 arreglos vectores elemento a elemento.]()
-18.-[Se generarán 2 vectores con elementos enteros y se llenarán de forma aleatoria]()
-19.-[Generar una función que realice la suma de los dos arreglos vectoriales e imprima
-el resultado a la salida.]()
-20.-[Generar una función que realice la suma de todos los elementos de un arreglo e
-imprima el resultado a la salida.]()
-21.-[Tomar la función de llenado del arreglo vectorial por el usuario y
-extenderlo a dos dimensiones.]()
-22.-[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.]()
-23.-[Tomar la función de suma de arreglos vectoriales (parte 4.2) y extender la
-operación a dos dimensiones.]()
-24.-[Jacobi]()
+-[Jacobi]()
