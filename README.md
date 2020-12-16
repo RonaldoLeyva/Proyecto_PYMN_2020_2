@@ -44,13 +44,19 @@ Estimar y/o calcular las raíces de una función usando el método de la bisecci
 
 #LABORATORIO 6:Métodos de Newton-Rhapson y de la secante
 
-- Desarrollar y codificar en C los métodos de Newton-Raphson y de la secante
-- Encontrar las ventajas y desventajas de los métodos abiertos de bisección para el cálculo de las raíces.
+Desarrollar y codificar en C los métodos de Newton-Raphson y de la secante
+Encontrar las ventajas y desventajas de los métodos abiertos de bisección para el cálculo de las raíces.
+
+-[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
+
+-[Metodo de la secante]()
 
 #LABORATORIO 10:Derivación numérica
 
-- Analizar la diferenciación numérica por medio de su programación en C.
-- Comparar los datos calculados en el taller con los obtenidos a la salida del programa.
+Analizar la diferenciación numérica por medio de su programación en C.
+Comparar los datos calculados en el taller con los obtenidos a la salida del programa.
+
+-[Derivaciones Numericas](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Derivaciones%20Numericas.c)
 
 #LABORATORIO 11:Métodos de ecuaciones lineales
 
@@ -58,14 +64,9 @@ Se deberán comprobar las 5 iteraciones y se deberán calcular los errores relat
 porcentuales.
 
 
-
-
-
-5.-[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
-
 6.-[Gayss Seidel]()
 
-7.-[Derivaciones Numericas](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Derivaciones%20Numericas.c)
+
 
 8.-[Interpolacion de Newton]()
 
