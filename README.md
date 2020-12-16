@@ -20,13 +20,15 @@ utilizando elementos de entrada y salida de datos.
 
 Desarrollar un diagrama de flujo de un algoritmo utilizando las funciones de lectura/escritura de variables, impresión y estructuras de control.
 
--[Número par e impar.]()
+-[Número par e impar.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.2.c)
 
--[Programa de la edad]()
+-[Programa de la edad](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.1.c)
 
--[La ecuación cuadrática]()
+-[La ecuación cuadrática](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.3.c)
 
--[Decirte si eres mayor de edad]()
+-[Calculadora de impuestos soltero y casado](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.4.c)
+
+-[Indicador de riesgo del IMC](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.5.c)
 
 #LABORATORIO 3:Estructuras repetitivas
 
@@ -38,26 +40,26 @@ Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y 
 
 -[Serie Fibonacci](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%203.4.c)
 
--[Aproximar el número áureo = 1.61803](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%203.4%20b).c)
+-[Aproximar el número áureo = 1.61803](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%203.4%20b.c)
 
 
 #LABORATORIO 4:Funciones, arreglos y matrices
 
 En ingeniería es conveniente resolver un problema dividiéndolo por partes. Hemos visto sin duda en algunas de las secciones la frase: “divide y vencerás”. En C/C++ existen diversas funciones dadas por bibliotecas que nos permiten resolver cierta clase de problemas. Por ejemplo, al llamar la biblioteca <math.h> podemos emplear funciones de cálculos aritméticos como la raíz cuadrada (sqrt), la potencia de un número (pow), entre otras.
 
--[El usuario va a ingresar 2 arreglos vectores elemento a elemento.]()
+-[El usuario va a ingresar 2 arreglos vectores elemento a elemento.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.1.c)
 
--[Se generarán 2 vectores con elementos enteros y se llenarán de forma aleatoria]()
+-[Se generarán 2 vectores con elementos enteros y se llenarán de forma aleatoria](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.2.c)
 
--[Generar una función que realice la suma de los dos arreglos vectoriales e imprima el resultado a la salida.]()
+-[Generar una función que realice la suma de los dos arreglos vectoriales e imprima el resultado a la salida.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.3.c)
 
 -[Generar una función que realice la suma de todos los elementos de un arreglo e imprima el resultado a la salida.]()
 
--[Tomar la función de llenado del arreglo vectorial por el usuario y extenderlo a dos dimensiones.]()
+-[Tomar la función de llenado del arreglo vectorial por el usuario y extenderlo a dos dimensiones.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.4.c)
 
--[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.]()
+-[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.5.c)
 
--[Tomar la función de suma de arreglos vectoriales y extender la operación a dos dimensiones.]()
+-[Tomar la función de suma de arreglos vectoriales y extender la operación a dos dimensiones.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.6.c)
 
 #LABORATORIO 5:Métodos cerrados: de la bisección y de la falsa posición
 
@@ -80,7 +82,7 @@ Encontrar las ventajas y desventajas de los métodos abiertos de bisección para
 
 -[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
 
--[Metodo de la secante]()
+-[Metodo de la secante](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20De%20la%20secante%20Ronaldo%20Leyva.c)
 
 #LABORATORIO 10:Derivación numérica
 
@@ -94,6 +96,6 @@ Comparar los datos calculados en el taller con los obtenidos a la salida del pro
 Se deberán comprobar las 5 iteraciones y se deberán calcular los errores relativos
 porcentuales.
 
--[Gayss Seidel]()
+-[Gayss Seidel](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Metodo%20de%20Gayss%20Seidel.c)
 
--[Jacobi]()
+-[Jacobi](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Metodo%20de%20Jacobi.c)
