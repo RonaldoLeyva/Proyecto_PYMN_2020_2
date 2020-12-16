@@ -20,4 +20,15 @@ Repositorio con los archivos de la practicas de laboratorio.
 13.-[Programa de la edad]()
 14.-[La ecuación cuadrática]()
 15.-[Decirte si eres mayor de edad]()
-16.-[]()
+16.-[Pasar un numero a binario]()
+17.-[El usuario va a ingresar 2 arreglos vectores elemento a elemento.]()
+18.-[Se generarán 2 vectores con elementos enteros y se llenarán de forma aleatoria]()
+19.-[Generar una función que realice la suma de los dos arreglos vectoriales e imprima
+el resultado a la salida.]()
+20.-[Generar una función que realice la suma de todos los elementos de un arreglo e
+imprima el resultado a la salida.]()
+21.-[Tomar la función de llenado del arreglo vectorial por el usuario y
+extenderlo a dos dimensiones.]()
+22.-[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.]()
+23.-[Tomar la función de suma de arreglos vectoriales (parte 4.2) y extender la
+operación a dos dimensiones.]()
