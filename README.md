@@ -5,13 +5,20 @@
 
 Repositorio con los archivos de la practicas de laboratorio.
 
-1.-[Metodo de Biseccion formula 1]()
-2.-[Metodo de Biseccion formula 2]()
-3.-[Metodo de la posicion falsa formula 1]()
-4.-[Metodo de la posicion falsa formula 2]()
-5.-[Metodo de Newton Raphson]()
-6.-[Metodo del Trapecio]()
+1.-[Metodo de Biseccion formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%201.c)
+
+2.-[Metodo de Biseccion formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%202.c)
+
+3.-[Metodo de la posicion falsa formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%201.c)
+
+4.-[Metodo de la posicion falsa formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%202.c)
+
+5.-[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
+
+6.-[Gayss Seidel]()
+
 7.-[Derivaciones Numericas](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Derivaciones%20Numericas.c)
+
 8.-[Interpolacion de Newton]()
 9.-[Radio de una esfera]()
 10.-[Fuerza de atracción del peso de una persona]()
@@ -32,3 +39,4 @@ extenderlo a dos dimensiones.]()
 22.-[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.]()
 23.-[Tomar la función de suma de arreglos vectoriales (parte 4.2) y extender la
 operación a dos dimensiones.]()
+24.-[Jacobi]()
