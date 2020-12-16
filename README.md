@@ -10,7 +10,7 @@ Repositorio con los archivos de la practicas de laboratorio.
 Identificar los pasos para creación de nuevos programas con la estructura del lenguaje de programación, aplicando los tipos de datos para declarar variables y constantes
 utilizando elementos de entrada y salida de datos.
 
--[Radio de una esfera](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/practica%201%20a.c)
+-[Radio de una esfera]((https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/practica%201%20a).c)
 
 -[Fuerza de atracción del peso de una persona](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/practica%201%20b).c)
 
