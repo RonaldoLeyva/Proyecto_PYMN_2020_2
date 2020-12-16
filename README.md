@@ -10,9 +10,11 @@ Repositorio con los archivos de la practicas de laboratorio.
 Identificar los pasos para creación de nuevos programas con la estructura del lenguaje de programación, aplicando los tipos de datos para declarar variables y constantes
 utilizando elementos de entrada y salida de datos.
 
-[Radio de una esfera]()
-[Fuerza de atracción del peso de una persona]()
-[Indice de masa corporal]()
+-[Radio de una esfera]()
+
+-[Fuerza de atracción del peso de una persona]()
+
+-[Indice de masa corporal]()
 
 #LABORATORIO 2:Estructuras de control condicionales simples y múltiples
 
@@ -28,10 +30,17 @@ En ingeniería es conveniente resolver un problema dividiéndolo por partes. Hem
 
 #LABORATORIO 5:Métodos cerrados: de la bisección y de la falsa posición
 
-- Desarrollar y codificar en lenguaje C el método de bisección.
-- Desarrollar y codificar en lenguaje C el método de la falsa posición
-- Estimar y/o calcular las raíces de una función usando el método de la bisección y de la
-falsa posición.
+Desarrollar y codificar en lenguaje C el método de bisección.
+Desarrollar y codificar en lenguaje C el método de la falsa posición
+Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.
+
+-[Metodo de Biseccion formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%201.c)
+
+-[Metodo de Biseccion formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%202.c)
+
+-[Metodo de la posicion falsa formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%201.c)
+
+-[Metodo de la posicion falsa formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%202.c)
 
 #LABORATORIO 6:Métodos de Newton-Rhapson y de la secante
 
@@ -50,13 +59,7 @@ porcentuales.
 
 
 
-1.-[Metodo de Biseccion formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%201.c)
 
-2.-[Metodo de Biseccion formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20biseccion%20formula%202.c)
-
-3.-[Metodo de la posicion falsa formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%201.c)
-
-4.-[Metodo de la posicion falsa formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%202.c)
 
 5.-[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
 
