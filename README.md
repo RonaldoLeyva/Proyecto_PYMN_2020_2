@@ -11,7 +11,7 @@ Repositorio con los archivos de la practicas de laboratorio.
 4.-[Metodo de la posicion falsa formula 2]()
 5.-[Metodo de Newton Raphson]()
 6.-[Metodo del Trapecio]()
-7.-[Derivaciones Numericas]()
+7.-[Derivaciones Numericas](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Derivaciones%20Numericas.c)
 8.-[Interpolacion de Newton]()
 9.-[Radio de una esfera]()
 10.-[Fuerza de atracción del peso de una persona]()
