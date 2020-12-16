@@ -15,7 +15,7 @@ utilizando elementos de entrada y salida de datos.
 -[Fuerza de atracción del peso de una persona](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/practica%201%20b.c)
 
 -[Indice de masa corporal](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/practica%201%20c.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 2:Estructuras de control condicionales simples y múltiples
 
 Desarrollar un diagrama de flujo de un algoritmo utilizando las funciones de lectura/escritura de variables, impresión y estructuras de control.
@@ -29,7 +29,7 @@ Desarrollar un diagrama de flujo de un algoritmo utilizando las funciones de lec
 -[Calculadora de impuestos soltero y casado](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.4.c)
 
 -[Indicador de riesgo del IMC](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%204.5.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 3:Estructuras repetitivas
 
 Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y “do while”.
@@ -41,8 +41,7 @@ Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y 
 -[Serie Fibonacci](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%203.4.c)
 
 -[Aproximar el número áureo = 1.61803](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%203.4%20b.c)
-
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 4:Funciones, arreglos y matrices
 
 En ingeniería es conveniente resolver un problema dividiéndolo por partes. Hemos visto sin duda en algunas de las secciones la frase: “divide y vencerás”. En C/C++ existen diversas funciones dadas por bibliotecas que nos permiten resolver cierta clase de problemas. Por ejemplo, al llamar la biblioteca <math.h> podemos emplear funciones de cálculos aritméticos como la raíz cuadrada (sqrt), la potencia de un número (pow), entre otras.
@@ -60,7 +59,7 @@ En ingeniería es conveniente resolver un problema dividiéndolo por partes. Hem
 -[Tomar la función de llenado del arreglo vectorial con números aleatorios y extenderlo a dos dimensiones.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.5.c)
 
 -[Tomar la función de suma de arreglos vectoriales y extender la operación a dos dimensiones.](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%205.6.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 5:Métodos cerrados: de la bisección y de la falsa posición
 
 Desarrollar y codificar en lenguaje C el método de bisección.
@@ -74,7 +73,7 @@ Estimar y/o calcular las raíces de una función usando el método de la bisecci
 -[Metodo de la posicion falsa formula 1](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%201.c)
 
 -[Metodo de la posicion falsa formula 2](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20metodo%20de%20la%20posicion%20falsa%20formula%202.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 6:Métodos de Newton-Rhapson y de la secante
 
 Desarrollar y codificar en C los métodos de Newton-Raphson y de la secante
@@ -83,14 +82,14 @@ Encontrar las ventajas y desventajas de los métodos abiertos de bisección para
 -[Metodo de Newton Raphson](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20Newton-Rhapson%20Ronaldo%20Leyva.c)
 
 -[Metodo de la secante](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Practica%20De%20la%20secante%20Ronaldo%20Leyva.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 10:Derivación numérica
 
 Analizar la diferenciación numérica por medio de su programación en C.
 Comparar los datos calculados en el taller con los obtenidos a la salida del programa.
 
 -[Derivaciones Numericas](https://github.com/RonaldoLeyva/Proyecto_PYMN_2020_2/blob/main/Derivaciones%20Numericas.c)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #LABORATORIO 11:Métodos de ecuaciones lineales
 
 Se deberán comprobar las 5 iteraciones y se deberán calcular los errores relativos
